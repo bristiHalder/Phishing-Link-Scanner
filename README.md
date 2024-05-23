@@ -32,5 +32,5 @@ The main script to run the phishing link scanner is `Phishing_Link_Scanner.py`. 
 3. Run the script:
 
     ```bash
-    python phishing_scanner.py
+    python Phishing_Link_Scanner.py
     ```
